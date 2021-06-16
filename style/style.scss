@@ -42,6 +42,7 @@ li {
             @include d-play(row,space-between,center);
             li {
                 display: inline-block;
+                cursor: pointer;
                 margin: 20px;
                 &:last-child {
                     margin-right: 40px;

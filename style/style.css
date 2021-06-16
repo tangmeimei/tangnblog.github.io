@@ -69,6 +69,7 @@ li {
 
 .container .header ul li {
   display: inline-block;
+  cursor: pointer;
   margin: 20px;
 }
 
